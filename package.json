@@ -1,7 +1,6 @@
 {
   "name": "foodapp",
   "version": "1.0.0",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -15,5 +14,8 @@
     "url": "https://github.com/Naveen4272/FoodApp/issues"
   },
   "homepage": "https://github.com/Naveen4272/FoodApp#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
 }
